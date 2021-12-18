@@ -4,7 +4,7 @@
 ### OVERVIEW
 This is a pivot point Analysis on the NSE 500 stock data, that was scrapped
 from [Money control](https://www.moneycontrol.com/stocks/marketstats/nse-gainer/nifty-500_7/)
-website using python libraries. The scrapped data was cleaned and marked for pivot points for an 24hr time frame, that can defind trends for day trading.
+website using python libraries. The scrapped data was cleaned and marked for pivot points for an 24hr time frame, that can define trends for day trading.
 
 ### PIVOT POINT ANALYSIS
 A pivot point is a technical analysis indicator, or calculations, used to determine the overall trend of the market over different time frames. 
